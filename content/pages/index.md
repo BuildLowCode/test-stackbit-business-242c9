@@ -189,7 +189,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: 'Manage, track, monitor'
+    subtitle: 'Manage, track, onitor'
   - type: ContactSection
     colors: colors-d
     title: Join our club

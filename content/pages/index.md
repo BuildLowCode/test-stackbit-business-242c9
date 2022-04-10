@@ -58,9 +58,9 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: >
+      “Believe in yourself. You are braver than you think, more talented than
+      you know, and capable of more than you imagine.”
     name: Isabelle Parks
     title: Head chef at Parks
     styles:

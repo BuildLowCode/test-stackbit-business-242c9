@@ -62,7 +62,7 @@ sections:
       “The FitGym Software is the best to manage Gyms and access control for my
       clients. It helps reduce costs, save time and manage the business
       efficiently.”
-    name: Isabelle Parks
+    name: Sue Weaver
     title: Head chef at Parks
     styles:
       self:

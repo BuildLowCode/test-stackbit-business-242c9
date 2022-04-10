@@ -150,7 +150,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: Time to leave that spreadsheet and join fitGym
+    title: It's time to put down that messy spreadsheet and join fitGym
     text: |
       We’re local, seasonal fisherman, supporting fishing restrictions.
     actions:

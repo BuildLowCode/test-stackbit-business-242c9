@@ -48,7 +48,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/Untitled-4-3457a4e0.png",
-            "altText": "altText of the image",
+            "altText": "fitgym",
             "caption": "Caption of the image",
             "elementId": ""
         }

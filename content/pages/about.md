@@ -18,9 +18,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: >-
-      With the FitGym software, you can take care of your gym management
-      effortlessly and with accurate data in real-time.
+    title: About our business
     text: >-
       For us fishing is a life style. The connection to the waters is what makes
       us friends, and what makes us a family and it what makes us a business.

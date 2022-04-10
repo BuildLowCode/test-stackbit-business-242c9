@@ -126,7 +126,7 @@ sections:
     showAuthor: false
   - type: TextSection
     colors: colors-b
-    color: #1245678
+    color: #000000
     variant: variant-a
     text: |+
       ## [Request a Demo](https://www.stackbit.com/)

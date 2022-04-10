@@ -156,7 +156,7 @@ sections:
       you.
     actions:
       - type: Link
-        label: Join adventure
+        label: Contact Us
         url: 'https://www.stackbit.com/'
         showIcon: true
         icon: arrowRight

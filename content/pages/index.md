@@ -125,7 +125,7 @@ sections:
     readMoreLinkLabel: Join adventure
     showAuthor: false
   - type: TextSection
-    colors: colors-e
+    colors: colors-b
     variant: variant-a
     text: |+
       ## [Request a Demo](https://www.stackbit.com/)

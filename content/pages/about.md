@@ -16,7 +16,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: TextSection
-    colors: colors-d
+    colors: colors-a
     variant: variant-a
     text: >
       ## With the FitGym software, you can take care of your gym management

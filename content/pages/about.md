@@ -96,8 +96,8 @@ sections:
     colors: colors-d
     title: Join Us
     text: >
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not
+      We offer customized plans with the tools adjusted to the needs of your
+      business, and control over the database and information.
     form:
       type: FormBlock
       elementId: sign-up-form

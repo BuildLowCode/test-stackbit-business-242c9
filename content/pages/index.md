@@ -97,9 +97,9 @@ sections:
         styles:
           self:
             textAlign: left
-        subtitle: |+
-          - Manage gyms, employees and memberships
-
+        subtitle: >
+          FitGym is a software that helps you increase your profits by taking
+          care of your gym management. With it, you can:
       - type: FeaturedItem
         title: Smarter
         text: >-

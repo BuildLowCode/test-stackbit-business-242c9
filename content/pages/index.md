@@ -162,7 +162,7 @@ sections:
         icon: arrowRight
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero-3.webp
+      url: /images/pexels-william-choquette-1954524.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat

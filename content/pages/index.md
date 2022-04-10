@@ -96,8 +96,6 @@ sections:
           care of your gym management. With it, you can:
       - type: FeaturedItem
         title: Smarter
-        text: |
-          \- Manage gyms, employees and memberships
         actions:
           - type: Button
             label: Learn more

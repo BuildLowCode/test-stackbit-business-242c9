@@ -96,13 +96,7 @@ sections:
           care of your gym management. With it, you can:
       - type: FeaturedItem
         title: Manage
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left

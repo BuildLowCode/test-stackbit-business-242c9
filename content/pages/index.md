@@ -120,7 +120,7 @@ sections:
         title: Monitor
         subtitle: >-
           - Monitor gym’s finances and operations - Get insights on customer
-          behaviour and data analytics
+          behavior and data analytics
         actions: []
         styles:
           self:

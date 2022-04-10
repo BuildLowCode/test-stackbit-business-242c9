@@ -18,7 +18,6 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: About our business
     text: >
       ## With the FitGym software, you can take care of your gym management
       effortlessly and with accurate data in real-time.

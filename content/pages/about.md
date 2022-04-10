@@ -61,7 +61,7 @@ sections:
       we thought we should highlight her.”
     backgroundImage:
       type: BackgroundImage
-      url: /images/bg.webp
+      url: /images/pexels-leon-ardho-1552242.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat

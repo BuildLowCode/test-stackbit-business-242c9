@@ -151,8 +151,9 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: It's time to put down that messy spreadsheet and join fitGym
-    text: |
-      We’re local, seasonal fisherman, supporting fishing restrictions.
+    text: >
+      Manage, track, charge and monitor with the tools that fitgym offer for
+      you.
     actions:
       - type: Link
         label: Join adventure

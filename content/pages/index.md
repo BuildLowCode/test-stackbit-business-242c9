@@ -156,7 +156,7 @@ sections:
       you.
     actions:
       - type: Link
-        label: Contact Us
+        label: Learn More
         url: 'https://www.stackbit.com/'
         showIcon: true
         icon: arrowRight

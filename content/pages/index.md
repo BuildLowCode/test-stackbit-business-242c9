@@ -148,7 +148,7 @@ sections:
       text:
         textAlign: center
   - type: FeatureHighlightSection
-    colors: colors-d
+    colors: colors-b
     backgroundSize: full
     title: It's time to put down that messy spreadsheet and join fitGym
     text: >

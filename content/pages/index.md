@@ -102,6 +102,16 @@ sections:
             textAlign: left
         subtitle: '- Manage gyms, employees and memberships'
       - type: FeaturedItem
+        elementId: ''
+        title: Monitor
+        subtitle: >-
+          - Monitor gym’s finances and operations - Get insights on customer
+          behavior and data analytics
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         title: Track
         text: |
           \- Track all fitness activities and charges in real time 
@@ -112,16 +122,6 @@ sections:
             icon: arrowRight
             url: /
             style: primary
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        elementId: ''
-        title: Monitor
-        subtitle: >-
-          - Monitor gym’s finances and operations - Get insights on customer
-          behavior and data analytics
-        actions: []
         styles:
           self:
             textAlign: left

@@ -93,7 +93,7 @@ sections:
         textAlign: left
     type: QuoteSection
   - type: ContactSection
-    colors: colors-d
+    colors: colors-a
     title: Join Us
     text: >
       We offer customized plans with the tools adjusted to the needs of your

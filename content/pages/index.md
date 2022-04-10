@@ -126,7 +126,6 @@ sections:
     showAuthor: false
   - type: TextSection
     colors: colors-b
-    text-family: arial
     variant: variant-a
     text: |+
       ## [Request a Demo](https://www.stackbit.com/)

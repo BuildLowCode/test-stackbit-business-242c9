@@ -106,6 +106,7 @@ sections:
         styles:
           self:
             textAlign: left
+        subtitle: '- Manage gyms, employees and memberships'
       - type: FeaturedItem
         title: Focused
         text: >-

@@ -118,13 +118,6 @@
             "self": {
                 "width": "narrow"
             }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/Untitled-4.png",
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": ""
         }
     },
     "defaultMetaTags": []

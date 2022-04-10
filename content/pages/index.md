@@ -17,7 +17,6 @@ sections:
         borderStyle: solid
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-b
     backgroundSize: inset
     title: Software to Manage Gyms and Access Control
     subtitle: Customizable. Profesional. Accesible.

@@ -189,7 +189,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: 'Manage, track, charge and monitor'
   - type: ContactSection
     colors: colors-d
     title: Join our club

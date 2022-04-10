@@ -128,7 +128,7 @@ sections:
     colors: colors-b
     variant: variant-a
     text: |+
-      ## [Request a Demo](https://www.stackbit.com/)
+      ## [Requedst a Demo](https://www.stackbit.com/)
 
     styles:
       self:

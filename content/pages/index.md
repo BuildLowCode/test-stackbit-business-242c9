@@ -81,7 +81,7 @@ sections:
       title:
         textAlign: center
   - type: FeaturedItemsSection
-    colors: colors-b
+    colors: colors-a
     elementId: ''
     title: Key value propositions
     subtitle: ''

@@ -2,6 +2,7 @@ import * as React from 'react';
 import classNames from 'classnames';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { BackgroundImage } from '../../atoms';
+import Reddit from '../../svgs/reddit';
 
 type SectionProps = React.PropsWithChildren<{
     type?: string;
@@ -87,7 +88,7 @@ function SectionFullWidth(props: SectionProps) {
                 styles.borderStyle ? mapStyles({ borderStyle: styles.borderStyle }) : null,
                 styles.borderRadius ? mapStyles({ borderRadius: styles.borderRadius }) : null,
                 styles.boxShadow ? mapStyles({ boxShadow: styles.boxShadow }) : null
-                background
+                background-color: Reddit;
             )}
             style={{
                 borderWidth: styles.borderWidth ? `${styles.borderWidth}px` : null

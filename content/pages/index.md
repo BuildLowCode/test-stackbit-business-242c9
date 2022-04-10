@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    title: We do fishing differently
+    title: Software to Manage Gyms and Access Control
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button

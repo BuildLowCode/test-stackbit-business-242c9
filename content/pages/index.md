@@ -189,7 +189,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: ' Software'
+    subtitle: 'Manage, track, monitor gym Software'
   - type: ContactSection
     colors: colors-d
     title: Join our club

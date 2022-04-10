@@ -19,13 +19,26 @@ sections:
     colors: colors-d
     variant: variant-a
     title: About our business
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
+    text: >
+      ## With the FitGym software, you can take care of your gym management
+      effortlessly and with accurate data in real-time.
 
 
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+
+
+      ### Manage your gym with efficiency and ease
+
+
+      The FitGym software helps you manage your staff, memberships, finances and
+      operations with accuracy and ease. Get insights on customer behaviour and
+      data as well- all in real-time!
+
+
+      ### Track all fitness activities in real time
+
+
+      Monitor your finances with accuracy and precision thanks to the FitGym
+      software's detailed tracking of fitness activities in real time.
     styles:
       self:
         height: auto

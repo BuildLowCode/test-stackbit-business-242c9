@@ -29,7 +29,6 @@ sections:
         iconPosition: right
         icon: arrowRight
         showIcon: true
-        color: white
     backgroundImage:
       type: BackgroundImage
       url: /images/pexels-pixabay-260447.jpg

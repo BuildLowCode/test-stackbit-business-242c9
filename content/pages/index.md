@@ -31,7 +31,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/pexels-pixabay-260447.jpg
+      url: /images/pexels-pixabay-260447-bacaa66e.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat

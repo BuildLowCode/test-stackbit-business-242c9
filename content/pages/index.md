@@ -31,7 +31,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero.webp
+      url: /images/pexels-pixabay-260447.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat

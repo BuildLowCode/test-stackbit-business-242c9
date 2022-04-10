@@ -102,7 +102,7 @@ sections:
             textAlign: left
         subtitle: '- Manage gyms, employees and memberships'
       - type: FeaturedItem
-        title: Focused
+        title: Track
         text: |
           \- Track all fitness activities and charges in real time 
         actions:

@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: Software to Manage Gyms and Access Control
-    subtitle: Fast. Profesional. Accesible.
+    subtitle: customizable. Profesional. Accesible.
     actions:
       - type: Button
         label: Preview

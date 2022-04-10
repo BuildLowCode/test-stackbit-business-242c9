@@ -189,7 +189,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: FitGym Software
+    subtitle: ' Software'
   - type: ContactSection
     colors: colors-d
     title: Join our club

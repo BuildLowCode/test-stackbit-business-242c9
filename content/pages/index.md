@@ -63,7 +63,7 @@ sections:
       clients. It helps reduce costs, save time and manage the business
       efficiently.”
     name: Sue Weaver
-    title: Head chef at Parks
+    title: Gym Manager
     styles:
       self:
         height: auto

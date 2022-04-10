@@ -103,10 +103,8 @@ sections:
         subtitle: '- Manage gyms, employees and memberships'
       - type: FeaturedItem
         title: Focused
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          \- Track all fitness activities and charges in real time 
         actions:
           - type: Button
             label: Learn more

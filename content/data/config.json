@@ -81,7 +81,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact us",
+                "label": "Services",
                 "url": "mailto:info@lorem.mail",
                 "altText": ""
             }

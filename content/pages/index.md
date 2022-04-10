@@ -63,7 +63,7 @@ sections:
       clients. It helps reduce costs, save time and manage the business
       efficiently.”
     name: Sue Weaver
-    title: Gym Manager
+    title: Head Gym Manager
     styles:
       self:
         height: auto

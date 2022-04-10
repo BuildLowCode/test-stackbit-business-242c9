@@ -63,7 +63,7 @@ sections:
       clients. It helps reduce costs, save time and manage the business
       efficiently.”
     name: Sue Weaver
-    title: Head Manager ProBoxing
+    title: Head Manager ProFitnessGym
     styles:
       self:
         height: auto

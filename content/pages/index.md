@@ -63,7 +63,7 @@ sections:
       clients. It helps reduce costs, save time and manage the business
       efficiently.”
     name: Sue Weaver
-    title: Head Manager Pro
+    title: Head Manager ProBoxing
     styles:
       self:
         height: auto

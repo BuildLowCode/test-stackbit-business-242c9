@@ -96,10 +96,8 @@ sections:
           care of your gym management. With it, you can:
       - type: FeaturedItem
         title: Smarter
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          \- Manage gyms, employees and memberships
         actions:
           - type: Button
             label: Learn more

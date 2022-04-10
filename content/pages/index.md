@@ -57,7 +57,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: QuoteSection
-    colors: colors-d
+    colors: colors-a
     quote: >
       “The FitGym Software is the best to manage Gyms and access control for my
       clients. It helps reduce costs, save time and manage the business

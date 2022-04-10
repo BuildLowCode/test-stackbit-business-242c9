@@ -92,6 +92,7 @@ function SectionFullWidth(props: SectionProps) {
             )}
             style={{
                 borderWidth: styles.borderWidth ? `${styles.borderWidth}px` : null
+                background-color: Red;
             }}
             data-sb-field-path={fieldPath}
         >

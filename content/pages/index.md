@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: Software to Manage Gyms and Access Control
-    subtitle: Fresh. Better. Faster.
+    subtitle: Easy. Profesional. Faster.
     actions:
       - type: Button
         label: Get Started

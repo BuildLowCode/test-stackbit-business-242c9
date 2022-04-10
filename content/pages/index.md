@@ -23,7 +23,7 @@ sections:
     subtitle: Fast. Profesional. Accesible.
     actions:
       - type: Button
-        label: Get Started
+        label: Preview
         url: 'https://www.stackbit.com/'
         style: primary
         iconPosition: right

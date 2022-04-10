@@ -56,9 +56,9 @@ sections:
         textAlign: left
   - elementId: ''
     colors: colors-b
-    quote: >-
-      “This is someone else, not from our team, but she also loves fishing, so
-      we thought we should highlight her.”
+    quote: >
+      “Today I will do what others won’t, so tomorrow I can accomplish what
+      others can’t.”
     backgroundImage:
       type: BackgroundImage
       url: /images/pexels-leon-ardho-1552242.jpg

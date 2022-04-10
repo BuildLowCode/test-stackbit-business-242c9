@@ -87,9 +87,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
-          FitGym is a software that helps you increase your profits by taking
-          care of your gym management. With it, you can:
         actions:
           - type: Button
             label: Learn more

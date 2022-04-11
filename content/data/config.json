@@ -72,12 +72,6 @@
                 "label": "About",
                 "url": "/about",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Services",
-                "url": "mailto:info@lorem.mail",
-                "altText": ""
             }
         ],
         "socialLinks": [

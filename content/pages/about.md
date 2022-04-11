@@ -62,7 +62,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       url: /images/pexels-leon-ardho-1552242.jpg
-      backgroundSize: contain
+      backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 70

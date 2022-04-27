@@ -277,8 +277,12 @@ sections:
     title: null
     subtitle: null
     text: >+
-      # [Request a Demo
-      ](https://test-stackbit-business-242c9.stackbit.app/demo/)
+      ```
+
+      [![Netlify
+      Status](https://api.netlify.com/api/v1/badges/f846eef0-47e9-4d90-b577-6965a18bd647/deploy-status)](https://app.netlify.com/sites/fitgym-stackbit/deploys)
+
+      ```
 
     styles:
       self:

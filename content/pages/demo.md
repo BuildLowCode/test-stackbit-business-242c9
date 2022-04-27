@@ -10,7 +10,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: This in an empty page
+    title: Demo Low Code App - FITGYM
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.

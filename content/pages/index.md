@@ -270,6 +270,33 @@ sections:
         textAlign: center
       text:
         textAlign: center
+  - type: TextSection
+    colors: colors-b
+    elementId: null
+    variant: variant-a
+    title: null
+    subtitle: null
+    text: >+
+      # [Request a Demo
+      ](https://test-stackbit-business-242c9.stackbit.app/demo/)
+
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-36
+          - pr-4
+          - pl-4
+        justifyContent: center
+      text:
+        textAlign: center
   - type: DividerSection
     colors: colors-d
     styles:

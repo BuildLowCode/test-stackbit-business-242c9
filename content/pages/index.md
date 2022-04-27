@@ -136,7 +136,8 @@ sections:
   - type: TextSection
     colors: colors-b
     variant: variant-a
-    text: "```\n<a\_href=\"test-stackbit-business-242c9.stackbit.app/demo/\">Request a Demo</a>\n\n```\n\n"
+    text: |
+      [Request a Demo ](https://test-stackbit-business-242c9.stackbit.app/demo/)
     styles:
       self:
         height: auto

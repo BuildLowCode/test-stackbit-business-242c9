@@ -136,8 +136,10 @@ sections:
   - type: TextSection
     colors: colors-b
     variant: variant-a
-    text: |
-      [Request a Demo ](https://test-stackbit-business-242c9.stackbit.app/demo/)
+    text: >+
+      ### [Request a Demo
+      ](https://test-stackbit-business-242c9.stackbit.app/demo/)
+
     styles:
       self:
         height: auto

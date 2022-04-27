@@ -270,37 +270,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - type: TextSection
-    colors: colors-b
-    elementId: null
-    variant: variant-a
-    title: null
-    subtitle: null
-    text: >+
-      ```
-
-      [![Netlify
-      Status](https://api.netlify.com/api/v1/badges/f846eef0-47e9-4d90-b577-6965a18bd647/deploy-status)](https://app.netlify.com/sites/fitgym-stackbit/deploys)
-
-      ```
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-36
-          - pr-4
-          - pl-4
-        justifyContent: center
-      text:
-        textAlign: center
   - type: DividerSection
     colors: colors-d
     styles:

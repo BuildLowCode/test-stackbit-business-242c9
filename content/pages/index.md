@@ -276,14 +276,9 @@ sections:
     variant: variant-a
     title: null
     subtitle: null
-    text: >+
-      ```
-
-      [![Netlify
-      Status](https://api.netlify.com/api/v1/badges/f846eef0-47e9-4d90-b577-6965a18bd647/deploy-status)](https://app.netlify.com/sites/fitgym-stackbit/deploys)
-
-      ```
-
+    text: >
+      `[![Netlify
+      Status](https://api.netlify.com/api/v1/badges/f846eef0-47e9-4d90-b577-6965a18bd647/deploy-status)](https://app.netlify.com/sites/fitgym-stackbit/deploys)`
     styles:
       self:
         height: auto

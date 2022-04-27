@@ -137,7 +137,7 @@ sections:
     colors: colors-b
     variant: variant-a
     text: >+
-      ### [Request a Demo
+      # [Request a Demo
       ](https://test-stackbit-business-242c9.stackbit.app/demo/)
 
     styles:

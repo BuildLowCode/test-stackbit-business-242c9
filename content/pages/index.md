@@ -245,7 +245,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: Send
+      submitLabel: Submit
       styles:
         submitLabel:
           textAlign: center

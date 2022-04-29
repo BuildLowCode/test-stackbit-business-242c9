@@ -302,7 +302,7 @@ sections:
           label: Sign me up to receive updates
           isRequired: 'false'
           width: full
-      submitLabel: Sumit
+      submitLabel: Submit
     media: null
     styles:
       self:

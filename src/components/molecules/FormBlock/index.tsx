@@ -72,6 +72,7 @@ export default class FormBlock extends React.Component<any> {
                 ref={this.formRef}
                 data-netlify-honeypot={formHoneypotName}
                 data-sb-field-path={fieldPath}
+                >
 
                 <div className="grid sm:grid-cols-2 sm:gap-x-4" data-sb-field-path=".fields">
                     <input type="hidden" name="form-name" value={elementId} />
@@ -88,7 +89,7 @@ export default class FormBlock extends React.Component<any> {
                         return <FormControl key={index} {...field} data-sb-field-path={`.${index}`} />;
                     })}
                 </div>
-                
+
                 <div className={classNames('mt-4', styles.submitLabel?.textAlign ? mapStyles({ textAlign: styles.submitLabel?.textAlign }) : null)}>
                     <button
                         type="submit"

@@ -107,8 +107,8 @@ sections:
             label: Learn more
             showIcon: true
             icon: arrowRight
-            url: /
             style: primary
+            url: 'https://www.stackbit.com/'
         styles:
           self:
             textAlign: left
@@ -201,88 +201,42 @@ sections:
       actions:
         justifyContent: flex-start
   - type: ContactSection
-    colors: colors-a
-    title: Join Us
-    text: >
-      We offer customized plans with the tools adjusted to the needs of your
-      business, and control over the database and information.
+    colors: colors-c
+    elementId: ''
+    backgroundSize: full
+    title: Get early access
+    text: >-
+      Sign up your team today to be the first to try out our new product to
+      increase your team's productivity.
     form:
       type: FormBlock
       elementId: sign-up-form
-      destination: buildlowcode@gmail.com
       action: /.netlify/functions/submission_created
+      destination: buildlowcode@gmail.com
       fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
+        - type: EmailFormControl
+          name: email
+          placeholder: Your email
+          isRequired: 'true'
           width: full
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: Submit
-      styles:
-        submitLabel:
-          textAlign: center
+      submitLabel: Sign Up
+    media: null
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pr-4
+          - pt-28
+          - pb-36
           - pl-4
+          - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: row
       title:
-        textAlign: center
+        textAlign: left
       text:
-        textAlign: center
-  - type: DividerSection
-    colors: colors-d
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-4
-          - pb-4
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
+        textAlign: left
 addTitleSuffix: true
 metaTags: []
 ---

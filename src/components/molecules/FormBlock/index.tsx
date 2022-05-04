@@ -73,7 +73,6 @@ export default class FormBlock extends React.Component<any> {
                 data-netlify-honeypot={formHoneypotName}
                 data-sb-field-path={fieldPath}
 
-            >
                 <div className="grid sm:grid-cols-2 sm:gap-x-4" data-sb-field-path=".fields">
                     <input type="hidden" name="form-name" value={elementId} />
                     <input type="hidden" name="form-destination" value={destination} />

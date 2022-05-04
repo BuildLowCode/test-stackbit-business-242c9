@@ -108,6 +108,7 @@ sections:
             showIcon: true
             icon: arrowRight
             style: primary
+            url: stackbit.com
         styles:
           self:
             textAlign: left

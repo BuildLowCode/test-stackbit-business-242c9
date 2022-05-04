@@ -5,7 +5,7 @@ const axios = require('axios');
 // Handle the lambda invocation
 exports.handler = async function (event, context, callback) {
     try {
-        const STACKBIT_CONTACT_FORM_SUBMISSION_URL = '/.netlify/functions/submission_created'
+        const STACKBIT_CONTACT_FORM_SUBMISSION_URL = '/.netlify/functions/submission_created';
         const url = process.env.STACKBIT_CONTACT_FORM_SUBMISSION_URL;
 
         if (!url) {

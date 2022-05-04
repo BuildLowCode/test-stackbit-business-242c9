@@ -5,7 +5,7 @@ const axios = require('axios');
 // Handle the lambda invocation
 exports.handler = async function (event, context, callback) {
     try {
-        const url = .netlify/functions/submission_created;
+        const url = netlify/functions/submission_created;
 
         if (!url) {
             throw new Error('No Stackbit URL specified');

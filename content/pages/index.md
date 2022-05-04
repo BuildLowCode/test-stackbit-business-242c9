@@ -211,7 +211,7 @@ sections:
     form:
       type: FormBlock
       elementId: sign-up-form
-      action: /.netlify/functions/submission_created
+      action: 'https://hook.us1.make.com/woyg43rwc6nuqanhrwxn8a48ip0tik24'
       destination: ''
       fields:
         - type: EmailFormControl

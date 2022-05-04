@@ -212,7 +212,7 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       action: /.netlify/functions/submission_created
-      destination: ''
+      destination: buildlowcode@gmail.com
       fields:
         - type: EmailFormControl
           name: email

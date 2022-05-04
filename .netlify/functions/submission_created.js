@@ -1,7 +1,6 @@
 'use strict';
 
 const axios = require('axios');
-const STACKBIT_CONTACT_FORM_SUBMISSION_URL = require('/.netlify/functions/submission_created');
 
 // Handle the lambda invocation
 exports.handler = async function (event, context, callback) {

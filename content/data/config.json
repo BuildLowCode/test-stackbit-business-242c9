@@ -25,7 +25,7 @@
             {
                 "type": "Button",
                 "label": "Contact us",
-                "url": "mailto:buildlowcode@lorem.mail",
+                "url": "mailto:buildlowcode@gmail.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,

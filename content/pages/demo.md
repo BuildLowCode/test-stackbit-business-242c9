@@ -8,7 +8,7 @@ metaTags: []
 title: Demo Video
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-a
     variant: variant-a
     title: Demo Low Code App - FITGYM
     text: >-

@@ -167,7 +167,7 @@ sections:
     actions:
       - type: Link
         label: Learn More
-        url: 'https://www.stackbit.com/'
+        url: 'https://test-stackbit-business-242c9.stackbit.app/about/'
         showIcon: true
         icon: arrowRight
     backgroundImage:

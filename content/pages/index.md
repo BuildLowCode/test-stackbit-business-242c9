@@ -201,7 +201,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: ContactSection
-    colors: colors-b
+    colors: colors-a
     elementId: ''
     backgroundSize: full
     title: Get early access

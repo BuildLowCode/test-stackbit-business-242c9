@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: Preview
-        url: 'https://www.stackbit.com/'
+        url: 'https://test-stackbit-business-242c9.stackbit.app/demo/'
         style: primary
         iconPosition: right
         icon: arrowRight

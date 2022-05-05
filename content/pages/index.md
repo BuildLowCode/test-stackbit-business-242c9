@@ -108,7 +108,7 @@ sections:
             showIcon: true
             icon: arrowRight
             style: primary
-            url: 'https://www.stackbit.com/'
+            url: 'https://test-stackbit-business-242c9.stackbit.app/about/'
         styles:
           self:
             textAlign: left

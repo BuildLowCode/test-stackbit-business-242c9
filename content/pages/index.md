@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: Preview
-        url: 'https://www.stackbit.com/'
+        url: 'https://test-stackbit-business-242c9.stackbit.app/demo/'
         style: primary
         iconPosition: right
         icon: arrowRight
@@ -108,7 +108,7 @@ sections:
             showIcon: true
             icon: arrowRight
             style: primary
-            url: 'https://www.stackbit.com/'
+            url: 'https://test-stackbit-business-242c9.stackbit.app/about/'
         styles:
           self:
             textAlign: left
@@ -167,7 +167,7 @@ sections:
     actions:
       - type: Link
         label: Learn More
-        url: 'https://www.stackbit.com/'
+        url: 'https://test-stackbit-business-242c9.stackbit.app/about/'
         showIcon: true
         icon: arrowRight
     backgroundImage:
@@ -201,13 +201,13 @@ sections:
       actions:
         justifyContent: flex-start
   - type: ContactSection
-    colors: colors-c
+    colors: colors-a
     elementId: ''
     backgroundSize: full
     title: Get early access
-    text: >-
-      Sign up your team today to be the first to try out our new product to
-      increase your team's productivity.
+    text: >
+      Sign up  today to be the first to try out our new product to increase your
+      gym's management & productivity.
     form:
       type: FormBlock
       elementId: sign-up-form

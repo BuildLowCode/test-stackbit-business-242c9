@@ -24,9 +24,8 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Contact us",
-                "url": "mailto:info@lorem.mail",
-                "altText": "Contact us",
+                "label": "Build by Nela Vivas",
+                "url": "mailto:buildlowcode@gmail.com",
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",

@@ -26,7 +26,7 @@
                 "type": "Button",
                 "label": "Contact us",
                 "url": "mailto:buildlowcode@gmail.com",
-                "altText": "Contact us",
+                "altText": "Build by Nela Vivas",
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",

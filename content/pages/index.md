@@ -205,9 +205,9 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Get early access
-    text: >-
-      Sign up your team today to be the first to try out our new product to
-      increase your team's productivity.
+    text: >
+      Sign up  today to be the first to try out our new product to increase your
+      gym's management & productivity.
     form:
       type: FormBlock
       elementId: sign-up-form

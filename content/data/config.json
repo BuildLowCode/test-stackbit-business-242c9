@@ -24,7 +24,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Contact us",
+                "label": "Build by Nela Vivas",
                 "url": "mailto:buildlowcode@gmail.com",
                 "style": "secondary",
                 "showIcon": true,

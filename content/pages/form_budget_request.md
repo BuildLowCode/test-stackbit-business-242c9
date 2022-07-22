@@ -41,7 +41,6 @@ sections:
     form:
       type: FormBlock
       elementId: contact-form
-      action: /.netlify/functions/submission_created
       destination: ''
       fields:
         - type: TextFormControl

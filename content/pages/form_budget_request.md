@@ -66,6 +66,7 @@ sections:
           isRequired: false
           width: full
       submitLabel: Send Message
+      action: 'https://hook.us1.make.com/woyg43rwc6nuqanhrwxn8a48ip0tik24'
     media: null
     styles:
       self:

@@ -71,6 +71,13 @@ sections:
           label: Sign me up to receive updates
           isRequired: 'false'
           width: full
+        - type: TextareaFormControl
+          name: description
+          label: Description
+          hideLabel: false
+          placeholder: Please describe
+          isRequired: false
+          width: full
       submitLabel: Send Message
     media: null
     styles:

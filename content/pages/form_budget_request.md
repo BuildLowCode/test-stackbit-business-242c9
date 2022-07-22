@@ -75,7 +75,7 @@ sections:
           name: description
           label: Description
           hideLabel: false
-          placeholder: Please describe
+          placeholder: Please describe your gym
           isRequired: false
           width: full
       submitLabel: Send Message
